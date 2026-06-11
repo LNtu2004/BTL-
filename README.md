@@ -1,2 +1,0 @@
-# BTL-
-PHÁT TRIỂN ỨNG DỤNG TRÊN THIẾT BỊ DI ĐỘNG
