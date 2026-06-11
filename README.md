@@ -1,4 +1,4 @@
-1. Viết phần mềm trên công cụ Mit App inventor
+# Bài 1. Viết phần mềm trên công cụ Mit App inventor
    (tập trung vào quy trình tạo ra phần mềm)
    app có 3 screen:
    + about về bản thân+nút gọi sang 2 screen còn lại
@@ -8,3 +8,6 @@
           block: mô tả bản chất việc kéo thả block ntn?
                  ưu điểm gì so với viết code? nhược điểm?
                  copy paste block ? (backpack)
+  #                     Bài làm 
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/c3d55c58-fb2b-45d3-9ce3-595c41ee5338" />
+Đây là trang web cần thiết cho bài làm 
