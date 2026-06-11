@@ -13,3 +13,6 @@
 Đây là trang web cần thiết cho bài làm 
 <img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/657ef51f-8f6a-494b-8703-557d39ac914a" />
 Giao diện khi vào trang 
+<img width="930" height="668" alt="image" src="https://github.com/user-attachments/assets/8d718457-9312-4c66-ac31-2d26ac5ec2a1" />
+<img width="922" height="674" alt="image" src="https://github.com/user-attachments/assets/0713949e-ac01-4e4b-807d-63cf34703664" />
+<img width="919" height="717" alt="image" src="https://github.com/user-attachments/assets/f7202fac-984d-4493-8184-9e6625a08f5c" />
