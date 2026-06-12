@@ -157,3 +157,16 @@ II Thực hiện bài làm
 <img width="1118" height="794" alt="image" src="https://github.com/user-attachments/assets/7f6de9d5-ce03-4d08-95da-4148729cb1ba" />
 2. Đây là project mình tạo
 <img width="1114" height="804" alt="image" src="https://github.com/user-attachments/assets/06297c8a-4d18-4300-afc4-363a6d879b31" />
+I cài Android Studio 
+1. Vô web " https://developer.android.com/studio?hl=vi " để tải ứng dụng về máy
+2. Sau khi tải xong thì các bạn cứ nhấn next là dc
+3. Đây là màn hình sau khi các bạn cài xong
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/bfab8b85-6677-494f-a3e6-80a28deb70be" />
+
+# Mình sẽ giải thích cho các bạn các thành phần của nó nhé ! 
+a. Name : Là tên ứng dụng bạn muốn tạo.
+b. Package name : Là định danh duy nhất cho ứng dụng
+c. Save location : Nơi lưu dự án trên máy tính. 
+d. Language : Ngôn ngữ lập trình bạn dùng cho app.
+e. Minimum SDK : Là phiên bản Android thấp nhất mà app của bạn hỗ trợ.   
+f. Build configuration language : Là ngôn ngữ cấu hình .
