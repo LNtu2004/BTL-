@@ -162,7 +162,6 @@ I cài Android Studio
 2. Sau khi tải xong thì các bạn cứ nhấn next là dc
 3. Đây là màn hình sau khi các bạn cài xong
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/bfab8b85-6677-494f-a3e6-80a28deb70be" />
-
 # Mình sẽ giải thích cho các bạn các thành phần của nó nhé ! 
 a. Name : Là tên ứng dụng bạn muốn tạo.
 b. Package name : Là định danh duy nhất cho ứng dụng
