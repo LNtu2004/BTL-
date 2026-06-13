@@ -270,12 +270,16 @@ public class MainActivity extends AppCompatActivity {
 
 8.chạy thử App
 B1: Mở Device Manager ( nó năm bên phải màn hình nhé ! )
+
 B2: Tạo máy ảo
+
 B3: Chọn điện thoại chọn pixel 6 hoặc 7 tùy bạn 
+
 B4: Chọn Android chọn cái Android 14 (API 34)
 
 
 <img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/195a2b5f-a803-4bd7-b2c1-2ede7782335b" />
+<img width="1108" height="858" alt="image" src="https://github.com/user-attachments/assets/6a4561d6-ca1e-4533-a2ee-4ab65fe38c72" />
 
 
 
