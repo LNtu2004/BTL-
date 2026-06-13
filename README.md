@@ -278,9 +278,9 @@ B3: Chọn điện thoại chọn pixel 6 hoặc 7 tùy bạn
 
 B4: Chọn Android chọn cái Android 14 (API 34)
 
+<img width="1916" height="1020" alt="image" src="https://github.com/user-attachments/assets/6274abc0-1b10-46af-9ae5-f5a1f9fb44a3" />
+<img width="1918" height="976" alt="image" src="https://github.com/user-attachments/assets/ea6c0d20-df19-4c57-bb96-df6388360353" />
 
-<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/195a2b5f-a803-4bd7-b2c1-2ede7782335b" />
-<img width="1108" height="858" alt="image" src="https://github.com/user-attachments/assets/6a4561d6-ca1e-4533-a2ee-4ab65fe38c72" />
 
 
 
