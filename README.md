@@ -177,7 +177,10 @@ Sau đó nó sẽ hiện ra 1 cửa sổ như này giữ nguyên nó r finish l�
 5. Tạo file guide.txt
 
 Click chuột phải vào assets → New → File rồi đặt tên là guide.txt
-
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/bda06ebe-1647-4c35-9bc9-8898f7144201" />
+Cuối cùng là để nội dung như trên hình
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/471cd0f0-85c9-483a-a063-61c90b992a37" />
+6. 
 
 
 
