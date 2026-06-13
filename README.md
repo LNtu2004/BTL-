@@ -185,7 +185,88 @@ Cuối cùng là để nội dung như trên hình
 Chọn thư mục res → layout → activity_main.xml rồi chuyển sang tab code 
 <img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/4c636f6b-d7c7-4aa5-962a-4f8afce5dd80" />
 Ở đây mình sẽ xóa hết code của nó r thay code mới nhé
+Code :
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/txtTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ỨNG DỤNG HƯỚNG DẪN SEN ĐÁ"
+            android:textSize="24sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/txtContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textSize="18sp"/>
+
+    </LinearLayout>
+
+</ScrollView>
+
+7. Viết code đọc Assets
+
+Mở MainActivity.java xóa hết code cũ đi rồi thay code mới vô 
+
+Code :
+package com.example.apphuongdansenda;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+import android.widget.TextView;
+
+import java.io.BufferedReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+
+public class MainActivity extends AppCompatActivity {
+
+    TextView txtContent;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        txtContent = findViewById(R.id.txtContent);
+
+        StringBuilder data = new StringBuilder();
+
+        try {
+            InputStream is = getAssets().open("guide.txt");
+
+            BufferedReader reader =
+                    new BufferedReader(
+                            new InputStreamReader(is));
+
+            String line;
+
+            while ((line = reader.readLine()) != null) {
+                data.append(line).append("\n");
+            }
+
+            reader.close();
+
+            txtContent.setText(data.toString());
+
+        } catch (Exception e) {
+            txtContent.setText("Lỗi đọc file!");
+        }
+    }
+}
 
 
 
