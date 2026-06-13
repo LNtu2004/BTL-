@@ -274,9 +274,9 @@ B1: Mở Device Manager ( nó năm bên phải màn hình nhé ! )
 
 B2: Tạo máy ảo
 
-B3: Chọn điện thoại chọn pixel 6 hoặc 7 tùy bạn 
+B3: Chọn điện thoại ( mình chọn pixel 4 )
 
-B4: Chọn Android chọn cái Android 14 (API 34)
+B4: Chọn Android ( ở đây mình chọn cái Android 10 )
 
 <img width="1916" height="1020" alt="image" src="https://github.com/user-attachments/assets/6274abc0-1b10-46af-9ae5-f5a1f9fb44a3" />
 <img width="1918" height="976" alt="image" src="https://github.com/user-attachments/assets/ea6c0d20-df19-4c57-bb96-df6388360353" />
