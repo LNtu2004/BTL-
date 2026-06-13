@@ -180,7 +180,13 @@ Click chuột phải vào assets → New → File rồi đặt tên là guide.tx
 <img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/bda06ebe-1647-4c35-9bc9-8898f7144201" />
 Cuối cùng là để nội dung như trên hình
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/471cd0f0-85c9-483a-a063-61c90b992a37" />
-6. 
+6. Thiết kế giao diện
+
+Chọn thư mục res → layout → activity_main.xml rồi chuyển sang tab code 
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/4c636f6b-d7c7-4aa5-962a-4f8afce5dd80" />
+Ở đây mình sẽ xóa hết code của nó r thay code mới nhé
+
+
 
 
 
