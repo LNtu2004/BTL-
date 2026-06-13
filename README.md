@@ -174,6 +174,11 @@ Mình sẽ tạo thư mục Assets bằng cách click chuột phải vào app r�
 <img width="1916" height="1017" alt="image" src="https://github.com/user-attachments/assets/fdb880d7-70c6-4a91-bfca-8713f6626b18" />
 Sau đó nó sẽ hiện ra 1 cửa sổ như này giữ nguyên nó r finish là được 
 <img width="1122" height="807" alt="image" src="https://github.com/user-attachments/assets/691e307f-8bf0-4de4-b454-7501b65843c6" />
+5. Tạo file guide.txt
+
+Click chuột phải vào assets → New → File rồi đặt tên là guide.txt
+
+
 
 
 
