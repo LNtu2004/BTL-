@@ -165,3 +165,6 @@ c. Save location : Nơi lưu dự án trên máy tính.
 d. Language : Ngôn ngữ lập trình bạn dùng cho app.
 e. Minimum SDK : Là phiên bản Android thấp nhất mà app của bạn hỗ trợ.   
 f. Build configuration language : Là ngôn ngữ cấu hình .
+
+3. Sau khi nhấn Finish nó sẽ bắt bạn tải thêm phần bên trong ( Nhớ là phải có mạng đầy đủ nhé ! ) và đây là giao diện khi tải xong 
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/291d4c20-3b41-481c-97b1-6f379f33aa0a" />
