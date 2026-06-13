@@ -269,6 +269,7 @@ public class MainActivity extends AppCompatActivity {
 }
 
 8.chạy thử App
+
 B1: Mở Device Manager ( nó năm bên phải màn hình nhé ! )
 
 B2: Tạo máy ảo
