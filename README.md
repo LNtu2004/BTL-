@@ -169,8 +169,11 @@ f. Build configuration language : Là ngôn ngữ cấu hình .
 3. Sau khi nhấn Finish nó sẽ bắt bạn tải thêm phần bên trong ( Nhớ là phải có mạng đầy đủ nhé ! ) và đây là giao diện khi tải xong 
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/291d4c20-3b41-481c-97b1-6f379f33aa0a" />
 4. Tạo thư mục Assets
+
 Mình sẽ tạo thư mục Assets bằng cách click chuột phải vào app rồi chọn New → Folder → Assets Folder làm như trên hình là được
 <img width="1916" height="1017" alt="image" src="https://github.com/user-attachments/assets/fdb880d7-70c6-4a91-bfca-8713f6626b18" />
+Sau đó nó sẽ hiện ra 1 cửa sổ như này giữ nguyên nó r finish là được 
+<img width="1122" height="807" alt="image" src="https://github.com/user-attachments/assets/691e307f-8bf0-4de4-b454-7501b65843c6" />
 
 
 
