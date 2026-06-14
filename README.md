@@ -288,8 +288,9 @@ B5: Chạy thử app
  <img width="1918" height="1019" alt="image" src="https://github.com/user-attachments/assets/7b4c35f2-3d98-4da2-95cc-b5fdff3a1322" />
 
 # App 2 làm tương tự 
-1.
+1.Lần này mình chọn Empty Activity tên là AppBTLAndroid
 <img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/b39c0ec0-4571-4f0f-af2f-a46d6366f891" />
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/c4d07986-589e-49ce-80af-55dff964eecc" />
 
 
 
