@@ -294,10 +294,12 @@ B5: Chạy thử app
 2.Thêm quyền internet 
 vào  manifests chọn AndroidManifest.xml thêm dòng code : " <uses-permission android:name="android.permission.INTERNET"/> " như trên hình là được
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/d12fec20-2f6d-4172-b491-6d8fea479958" />
-3.
+3.Tạo 2 Activity mới
+tên là : SolverActivity và WebActivity
 <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/8b56559f-ba1a-4311-ba94-d2978d23b269" />
 <img width="1125" height="803" alt="image" src="https://github.com/user-attachments/assets/de9c93ee-0521-4c5d-a136-ffaa5850b445" />
 <img width="1120" height="655" alt="image" src="https://github.com/user-attachments/assets/357d78b1-56be-4339-8322-cc1d7ca14044" />
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/dd5038d7-c8bb-41bf-b7ea-1b0cf593f9e0" />
 
      
 
