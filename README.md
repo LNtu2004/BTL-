@@ -152,7 +152,7 @@ I cài Android Studio
 3. Đây là màn hình sau khi các bạn cài xong
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/bfab8b85-6677-494f-a3e6-80a28deb70be" />
 II Thực hiện bài làm
-
+# App 1
 1. Các bạn nhấn vô new project nó hiện lên rất nhiều giao diện android nhưng ở đây mình sẽ chọn Empty Views Activity để làm bài cho mình
 <img width="1118" height="794" alt="image" src="https://github.com/user-attachments/assets/7f6de9d5-ce03-4d08-95da-4148729cb1ba" />
 2. Đây là project mình tạo
@@ -287,6 +287,9 @@ B5: Chạy thử app
  Như này là chạy được r 
  <img width="1918" height="1019" alt="image" src="https://github.com/user-attachments/assets/7b4c35f2-3d98-4da2-95cc-b5fdff3a1322" />
 
+# App 2 làm tương tự 
+1.
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/b39c0ec0-4571-4f0f-af2f-a46d6366f891" />
 
 
 
