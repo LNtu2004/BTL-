@@ -291,7 +291,11 @@ B5: Chạy thử app
 1.Lần này mình chọn Empty Activity tên là AppBTLAndroid
 <img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/b39c0ec0-4571-4f0f-af2f-a46d6366f891" />
 <img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/c4d07986-589e-49ce-80af-55dff964eecc" />
+2.Thêm quyền internet 
+vào  manifests chọn AndroidManifest.xml thêm dòng code : <uses-permission android:name="android.permission.INTERNET"/> như trên hình là được
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/d12fec20-2f6d-4172-b491-6d8fea479958" />
 
+     
 
 
 
