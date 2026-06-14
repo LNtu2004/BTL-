@@ -26,6 +26,11 @@ Giao diện khi vào trang
 các bạn tải app qua mã QR này nhé!
 
 <img width="998" height="874" alt="image" src="https://github.com/user-attachments/assets/e415b898-6860-4924-990e-e9307d0ea618" />
+<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/f72db347-3891-4b01-aa4b-b7d0bf64765d" />
+<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/788f5a68-a08f-491b-bdfa-061428d2b729" />
+<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/308d7738-9ca3-4e0a-9a70-cf5f7d76fe1c" />
+<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/7ae6f609-b14c-447f-ac47-c838a774b870" />
+<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/de172c7c-7114-47a9-a098-2f237e0f6575" />
 
 
 # Mô tả công cụ MIT App Inventor
