@@ -496,6 +496,8 @@ public class SolverActivity extends AppCompatActivity {
 }
 
 6.WebActivity (WebView)
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/1beeeb2b-daae-4c65-8a66-e8b6b4a758f1" />
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/8996d3f6-6c62-4900-a95a-06ca0bdd02f4" />
 
 
 
