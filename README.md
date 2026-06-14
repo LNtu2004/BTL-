@@ -21,6 +21,13 @@ Giao diện khi vào trang
 <img width="1860" height="855" alt="image" src="https://github.com/user-attachments/assets/dc4fab41-271d-42e4-91ea-88e58ba0b2ff" />
 <img width="1860" height="839" alt="image" src="https://github.com/user-attachments/assets/9e7cc028-f583-42af-843f-cb9c2e73594c" />
 
+# Thử app 
+
+các bạn tải app qua mã QR này nhé!
+
+<img width="998" height="874" alt="image" src="https://github.com/user-attachments/assets/e415b898-6860-4924-990e-e9307d0ea618" />
+
+
 # Mô tả công cụ MIT App Inventor
 
 ## 1. Thanh công cụ trong MIT App Inventor
