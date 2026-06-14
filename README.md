@@ -377,7 +377,125 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-     
+5.SolverActivity (Giải toán + API)
+
+Code activity_solver.xml :
+
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/inputA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/input_a"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/inputB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/input_b"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/btnSolve"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_solve"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="12dp" />
+
+    <TextView
+        android:id="@+id/resultText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/result_text"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>
+
+Code SolverActivity.java :
+
+package com.example.appbtlandroid;
+
+import androidx.appcompat.app.AppCompatActivity;
+import android.os.Bundle;
+import android.widget.*;
+import org.json.JSONObject;
+import java.io.*;
+import java.net.*;
+
+public class SolverActivity extends AppCompatActivity {
+    EditText inputA, inputB;
+    Button btnSolve;
+    TextView resultText;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_solver);
+
+        inputA = findViewById(R.id.inputA);
+        inputB = findViewById(R.id.inputB);
+        btnSolve = findViewById(R.id.btnSolve);
+        resultText = findViewById(R.id.resultText);
+
+        btnSolve.setOnClickListener(v -> {
+            double a = Double.parseDouble(inputA.getText().toString());
+            double b = Double.parseDouble(inputB.getText().toString());
+            double sum = a + b;
+            resultText.setText("Kết quả: " + sum);
+
+            // Gửi API
+            new Thread(() -> {
+                try {
+                    JSONObject data = new JSONObject();
+                    data.put("app_by", "K225480106069");
+
+                    JSONObject input = new JSONObject();
+                    input.put("a", a);
+                    input.put("b", b);
+                    input.put("name", "hello tắc kè");
+                    data.put("input", input);
+
+                    JSONObject output = new JSONObject();
+                    output.put("ketluan", "Đã tính tổng");
+                    output.put("nghiem", sum);
+                    data.put("output", output);
+
+                    URL url = new URL("https://k58kmt.tdh.io.vn/api");
+                    HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+                    conn.setRequestMethod("POST");
+                    conn.setRequestProperty("Content-Type", "application/json");
+                    conn.setDoOutput(true);
+
+                    OutputStream os = conn.getOutputStream();
+                    os.write(data.toString().getBytes());
+                    os.close();
+
+                    BufferedReader reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
+                    StringBuilder response = new StringBuilder();
+                    String line;
+                    while ((line = reader.readLine()) != null) response.append(line);
+                    reader.close();
+
+                    runOnUiThread(() -> resultText.append("\nAPI: " + response));
+                } catch (Exception e) {
+                    runOnUiThread(() -> resultText.append("\nLỗi: " + e.getMessage()));
+                }
+            }).start();
+        });
+    }
+}
+
+6.WebActivity (WebView)
 
 
 
