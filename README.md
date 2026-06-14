@@ -282,6 +282,11 @@ B4: Chọn Android ( ở đây mình chọn cái Android 10 )
 <img width="1918" height="976" alt="image" src="https://github.com/user-attachments/assets/ea6c0d20-df19-4c57-bb96-df6388360353" />
 <img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/1ca84942-8c16-40d8-896b-63875adc078b" />
 
+B5: Chạy thử app
+ Các bạn nhấn vô mũi tên trên cùng màu xanh lá để chạy app nhé !
+ Như này là chạy được r 
+ <img width="1918" height="1019" alt="image" src="https://github.com/user-attachments/assets/7b4c35f2-3d98-4da2-95cc-b5fdff3a1322" />
+
 
 
 
