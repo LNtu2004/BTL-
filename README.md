@@ -300,6 +300,82 @@ tên là : SolverActivity và WebActivity
 <img width="1125" height="803" alt="image" src="https://github.com/user-attachments/assets/de9c93ee-0521-4c5d-a136-ffaa5850b445" />
 <img width="1120" height="655" alt="image" src="https://github.com/user-attachments/assets/357d78b1-56be-4339-8322-cc1d7ca14044" />
 <img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/dd5038d7-c8bb-41bf-b7ea-1b0cf593f9e0" />
+4.Thiết kế MainActivity
+Code activity_main.xml : 
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LÊ NGỌC TÚ"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MSSV: K225480106069"/>
+
+    <Button
+        android:id="@+id/btnSolver"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Giải toán"/>
+
+    <Button
+        android:id="@+id/btnWeb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mở Website"/>
+
+</LinearLayout>
+
+Code MainActivity.java: 
+package com.example.appbtlandroid;
+
+import android.content.Intent;
+import android.os.Bundle;
+import android.widget.Button;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+public class MainActivity extends AppCompatActivity {
+
+    Button btnSolver, btnWeb;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        btnSolver = findViewById(R.id.btnSolver);
+        btnWeb = findViewById(R.id.btnWeb);
+
+        btnSolver.setOnClickListener(v -> {
+            startActivity(
+                    new Intent(
+                            MainActivity.this,
+                            SolverActivity.class
+                    )
+            );
+        });
+
+        btnWeb.setOnClickListener(v -> {
+            startActivity(
+                    new Intent(
+                            MainActivity.this,
+                            WebActivity.class
+                    )
+            );
+        });
+    }
+}
 
      
 
