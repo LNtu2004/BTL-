@@ -166,7 +166,11 @@ I cài Android Studio
 2. Sau khi tải xong thì các bạn cứ nhấn next là dc
 3. Đây là màn hình sau khi các bạn cài xong
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/bfab8b85-6677-494f-a3e6-80a28deb70be" />
-II Thực hiện bài làm
+II Trả lời câu hỏi
+
+
+III Thực hiện bài làm
+
 # App 1
 1. Các bạn nhấn vô new project nó hiện lên rất nhiều giao diện android nhưng ở đây mình sẽ chọn Empty Views Activity để làm bài cho mình
 <img width="1118" height="794" alt="image" src="https://github.com/user-attachments/assets/7f6de9d5-ce03-4d08-95da-4148729cb1ba" />
