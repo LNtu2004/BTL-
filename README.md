@@ -16,6 +16,7 @@ Giao diện khi vào trang
 <img width="930" height="668" alt="image" src="https://github.com/user-attachments/assets/8d718457-9312-4c66-ac31-2d26ac5ec2a1" />
 <img width="922" height="674" alt="image" src="https://github.com/user-attachments/assets/0713949e-ac01-4e4b-807d-63cf34703664" />
 <img width="919" height="717" alt="image" src="https://github.com/user-attachments/assets/f7202fac-984d-4493-8184-9e6625a08f5c" />
+
 # Block screen 1 và 2 
 <img width="1860" height="855" alt="image" src="https://github.com/user-attachments/assets/dc4fab41-271d-42e4-91ea-88e58ba0b2ff" />
 <img width="1860" height="839" alt="image" src="https://github.com/user-attachments/assets/9e7cc028-f583-42af-843f-cb9c2e73594c" />
